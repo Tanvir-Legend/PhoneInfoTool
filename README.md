@@ -11,7 +11,7 @@ unzip number_loction.zip
 
 cd number_location
 
-nano test.py < Then add the number with country code in the number the save >
+nano test.py < Then add the number with country code in the number then save >
 
 python phonenumber_sp&coun.py
 
